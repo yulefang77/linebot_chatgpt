@@ -1,1 +1,1 @@
-"# line-bot �걵 cahtGPT" 
+"# line-bot 串接 cahtGPT" 
